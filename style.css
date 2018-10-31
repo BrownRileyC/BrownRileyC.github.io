@@ -7,3 +7,24 @@ body {
     color: blueviolet;
     font-size: 3em;
 }
+article {
+    float:left;
+    border: 2px;
+    border-style: solid;
+    margin-left: 10%;
+    margin-top: 20px;
+    width: 45%;
+}
+#pic1 {
+    height: 250px;
+    width: auto;
+}
+#sidebar {
+    border: 2px;
+    border-style: dashed;
+    border-color: peru;
+    margin: 10px;
+    width: 30%;
+    float:right;
+    clear:both;
+}
