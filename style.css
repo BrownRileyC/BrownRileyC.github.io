@@ -1,4 +1,9 @@
-h1 {
-    color: red;
-    font-size: 2em;
+body {
+    background-color: aliceblue;
+    font-size: 1.5em;
+    line-height: 150%;
+}
+#main {
+    color: blueviolet;
+    font-size: 3em;
 }
