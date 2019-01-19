@@ -1,0 +1,61 @@
+/* All pages classes/styling */
+body {
+    position:relative;
+    background-image: url(../light-grey-terrazzo.png);
+}
+
+.topBarBackground {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+.myName {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+}
+.topBarButtons {
+    color: #777777;
+}
+.stickyFooter {
+    position: absolute;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+    background-color: #666666;
+    border-color: #4aaaa5;
+    border-top-width: 10px;    
+}
+.myHeader {
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.myText {
+    color: #777777;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.boxBackground {
+    background-color: #ffffff;
+    border-color: #dddddd;
+
+}
+
+/* Index page styling/classes */
+
+.myPicture {
+    width: 200px;
+    height: auto;
+}
+
+/* Portfolio styling/classes */
+
+.projectTitle {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    position:relative;
+    bottom: 20%;
+
+}
